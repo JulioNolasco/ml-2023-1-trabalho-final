@@ -1,7 +1,7 @@
 # Trabalho final
 
-* Nome do Aluno: ________
-* Número de Matrícula: ________
+* Nome do Aluno: Julio Cezar Nolasco dos Santos
+* Número de Matrícula: 2019213684
 * Disciplina: Aprendizado de Máquina
 * Semestre: 2023/1
 * Data da entrega: 28/06/2023
